@@ -32,7 +32,7 @@ Vamos a construir una versión minimalista del [Banco de datos de Star Wars](htt
 
 ***Importante 2***: no se preocupe si los datos que obtiene de la SWAPI no coinciden con los datos que ve en starwars.com.
 
-Usa toda la información provista por el SWAPI (verifique los documentos y / o las respuestas de json).
+Usa toda la información provista por la SWAPI (verifique los documentos y / o las respuestas de json).
 
 ## Leer más tarde o la funcionalidad de favoritos
 

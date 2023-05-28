@@ -6,7 +6,7 @@ _The force is strong with this exercise..._
 
 We are going to be building a minimalist version of the [Star Wars Databank](https://www.starwars.com/databank) with a React Later or Favorites list functionality.
 
-### Here is the demo!
+### Here is the demo !
 
 <p align="center">
    <img src="https://projects.breatheco.de/json?slug=startwars-blog-reading-list&preview" />
